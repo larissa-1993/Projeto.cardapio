@@ -7,7 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "foto": "url('/assets/bg.png')" // Adicionei a vírgula aqui
+        "foto": "url('/assets/bg.png')" 
       }
     }
   },
